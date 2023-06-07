@@ -1,0 +1,12 @@
+# BLASTP 2.13.0+
+# Query: XP_054182874.1 H2BW2 [organism=Homo sapiens] [GeneID=286436] [isoform=X2]
+# Database: proteomes/thermococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+XP_054182874.1	WP_011251239.1	30.435	46	32	0	77	122	21	66	0.055	27.3
+XP_054182874.1	WP_048053708.1	26.744	86	52	3	68	142	7	92	1.6	25.0
+XP_054182874.1	WP_011251202.1	44.828	29	16	0	93	121	347	375	3.9	23.5
+XP_054182874.1	WP_011250716.1	42.857	21	12	0	11	31	579	599	4.6	23.5
+XP_054182874.1	WP_011249016.1	32.258	31	15	1	61	91	403	427	4.8	23.5
+XP_054182874.1	WP_011250062.1	50.000	16	8	0	116	131	65	80	5.0	23.1
+# BLAST processed 1 queries

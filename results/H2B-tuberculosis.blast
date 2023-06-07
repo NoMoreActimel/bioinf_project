@@ -1,0 +1,13 @@
+# BLASTP 2.13.0+
+# Query: XP_054182874.1 H2BW2 [organism=Homo sapiens] [GeneID=286436] [isoform=X2]
+# Database: proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+XP_054182874.1	NP_216831.1	33.333	42	28	0	95	136	41	82	0.47	27.3
+XP_054182874.1	NP_217510.1	29.630	81	53	1	22	98	187	267	0.64	26.9
+XP_054182874.1	NP_215611.1	46.429	28	15	0	95	122	106	133	1.3	26.2
+XP_054182874.1	NP_215038.1	55.556	18	8	0	126	143	239	256	2.9	25.0
+XP_054182874.1	NP_218433.1	26.667	30	22	0	62	91	198	227	3.2	24.6
+XP_054182874.1	NP_216723.1	37.500	40	25	0	109	148	209	248	3.7	24.6
+XP_054182874.1	NP_217185.1	28.889	45	32	0	101	145	59	103	5.0	23.9
+# BLAST processed 1 queries

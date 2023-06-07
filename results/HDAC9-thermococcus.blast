@@ -1,0 +1,12 @@
+# BLASTP 2.13.0+
+# Query: ENST00000406451.8 (HDAC9) length=1066
+# Database: proteomes/thermococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+ENST00000406451.8	WP_011249089.1	28.238	386	211	13	634	1009	4	333	5.32e-33	127
+ENST00000406451.8	WP_011251107.1	30.435	69	42	2	88	150	9	77	0.30	30.4
+ENST00000406451.8	WP_011250550.1	20.202	99	77	1	53	151	11	107	2.0	27.3
+ENST00000406451.8	WP_052273634.1	41.176	34	17	1	285	315	629	662	3.2	27.3
+ENST00000406451.8	WP_011250803.1	32.609	46	25	2	83	125	31	73	3.4	26.9
+ENST00000406451.8	WP_011249989.1	29.762	84	53	2	64	147	37	114	4.7	26.6
+# BLAST processed 1 queries

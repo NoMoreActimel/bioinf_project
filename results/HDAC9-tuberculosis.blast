@@ -1,0 +1,10 @@
+# BLASTP 2.13.0+
+# Query: ENST00000406451.8 (HDAC9) length=1066
+# Database: proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+ENST00000406451.8	NP_216918.3	22.388	134	74	3	220	323	179	312	0.020	35.4
+ENST00000406451.8	NP_215461.1	25.781	128	72	6	351	473	387	496	5.0	27.7
+ENST00000406451.8	NP_216540.1	31.579	57	38	1	553	609	59	114	5.8	27.3
+ENST00000406451.8	NP_215646.1	35.897	39	22	2	679	714	324	362	10.0	26.6
+# BLAST processed 1 queries
