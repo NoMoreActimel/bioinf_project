@@ -10,6 +10,7 @@
 В своей структуре имеет домен ClassIIa_HDAC_Gln-rich-N.
 
 [1] Di Giorgio E, Dalla E, Franforte E, Paluvai H, Minisini M, Trevisanut M, Picco R, Brancolini C. Different class IIa HDACs repressive complexes regulate specific epigenetic responses related to cell survival in leiomyosarcoma cells. Nucleic Acids Res. 2020 Jan 24;48(2):646-664. doi: 10.1093/nar/gkz1120. PMID: 31754707; PMCID: PMC6954409.
+
 [2] Chen L, Wang Z, Xu Q, Liu Y, Chen L, Guo S, Wang H, Zeng K, Liu J, Zeng S, Yu L. The failure of DAC to induce OCT2 expression and its remission by hemoglobin-based nanocarriers under hypoxia in renal cell carcinoma. Theranostics. 2020 Feb 18;10(8):3562-3578. doi: 10.7150/thno.39944. PMID: 32206108; PMCID: PMC7069078.
 
 Файлы гистонов после выравнивания лежат в папке histones с суффиксом _aligned, без суффикса приведены файлы с выбранными аминокислотными последовательностями.
